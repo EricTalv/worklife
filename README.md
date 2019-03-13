@@ -20,3 +20,12 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+## The Game
+
+You are a user joining the neverending commune of Worklife
+
+### Architecture 
+
+#### Logging
+ To join we must save data to somewhere like a database.
