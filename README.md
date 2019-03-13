@@ -27,5 +27,14 @@ You are a user joining the neverending commune of Worklife
 
 ### Architecture 
 
-#### Logging
- To join we must save data to somewhere like a database.
+<pre>
+FRONTEND:
+ + Vue
+ + Nuxt
+ + Axios
+ + Vuex
+
+BACKEND:
+ + Laravel
+ + MySql
+</pre>
